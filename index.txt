@@ -1,0 +1,53 @@
+client id: 
+PGe2TGfZRV29K5fLKgjfNg
+
+key:
+28hOgZXjkp4Gy8IsoBbuli4hq37b1S5k
+
+
+
+
+
+
+username-admin:
+if0_35373651
+
+mysql username:
+if0_35373651
+
+mysql database:
+if0_35373651_studysphere
+
+server name:
+sql309.byetcluster.com
+
+
+
+------------------------------
+GIT IMP COMMANDS:
+git init
+git add .
+git status
+git commit -m "Commit Message"
+git branch -M main
+git remote add origin //git repo link
+git push -u origin main
+git pull origin main
+
+------------------------------
+MySQLi commands:
+SELECT QUERY COMMANDS-
+$show_data = mysqli_query($con,$query_name);
+$varname = mysqli_fetch_assoc($show_data);//Both Query are same
+$varname = mysqli_fetch_array($show_data);//Both Query are same
+
+
+--------------------------------
+StudySphere:
+https://github.com/Aniketsonii/study-room
+
+REACT_APP_CI=false
+
+REACT_APP_CREATE_AUTH=ZjZhMmJjZWMtYmUxNi00ZjAyLWE3MmMtZmE4MWEwNmJlYThjOjc3OGIyMWQyN2U2OWUwMDMzMjNh
+
+REACT_APP_PARTICIPATE_AUTH=ZjZhMmJjZWMtYmUxNi00ZjAyLWE3MmMtZmE4MWEwNmJlYThjOjc3OGIyMWQyN2U2OWUwMDMzMjNh
